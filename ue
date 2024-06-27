@@ -1,0 +1,15 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en /xumo.tv.xml,https://iptv-org.github.io/epg/guides/es/cablego.com.pe.xml,https://iptv-org.github.io/epg/guides/es /cableplus.com.uy.xml,https://iptv-org.github.io/epg/guides/es/compulms.com.xml,https://iptv-org.github.io/epg/guides/es /directv.com.uy.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.xml,https://iptv-org.github.io/epg/guides/es /mi.tv.xml,https://iptv-org.github.io/epg/guides/es/tv.movistar.com.pe.xml,https://iptv-org.github.io/epg/guides /pt/meo.pt.xml"
+#EXTINF:-1 tvg-id="0" tvg-name="DISCOVERY THEATHER FHD" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="TV || DOCUMENTAIS",DISCOVERY THEATHER FHD
+http://cincotv.org:25461/Fermand693/Toapa475/186504
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px -Discovery_Turbo_logo.svg.png" group-title="TV || DOCUMENTAIS",DISCOVERY TURBO HD
+http://cincotv.org:25461/Fermand693/Toapa475/186505
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px -World_Discovery_HD_logo.svg.png" group-title="TV || DOCUMENTAIS",DISCOVERY WORLD HD
+http://cincotv.org:25461/Fermand693/Toapa475/186506
+#EXTINF:-1 tvg-id="0" tvg-name="H2 HD" tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png" group-title="TV | DOCUMENTAIS",H2 HD
+http://cincotv.org:25461/Fermand693/Toapa475/186507
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HISTORY CHANNEL FHD" tvg-logo="https://static.epg.best/ar/HistoryChannel.ar.png" group-title="TV || DOCUMENTALES",HISTORY CHANNEL FHD
+http://cincotv.org:25461/Fermand693/Toapa475/186509
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD HD" tvg-logo="https://static.epg.best/es/NatGeoWild.es.png" group-title="TV | DOCUMENTAIS",NATGEO WILD HD
+http://cincotv.org:25461/Fermand693/Toapa475/186511
+#EXTINF:-1 tvg-id="" tvg-name="GEOGRAFIA NACIONAL HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png" título do grupo ="TV || DOCUMENTALES",GEOGRAFIA NACIONAL HD
+http://cincotv.org:25461/Fermand693/Toapa475/186512
